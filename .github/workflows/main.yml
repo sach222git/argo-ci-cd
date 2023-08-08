@@ -22,4 +22,4 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/user-name/we45-app:latest
+            ghcr.io/sach222git/we45-app:latest
